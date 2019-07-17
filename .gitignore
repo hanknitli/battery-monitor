@@ -4,3 +4,8 @@
 
 # Python virtualenv
 venv/
+
+# Pyinstaller files
+build/
+dist/
+main.spec
