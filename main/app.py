@@ -2,6 +2,7 @@ import sys
 
 from PyQt5.QtWidgets import QApplication
 
+
 from graphics import mainwindow
 
 
@@ -23,6 +24,7 @@ def run():
 
 	# Initialize the app window
 	window = mainwindow.MainWindow()
+
 	window.show()
 
 	# App execution
